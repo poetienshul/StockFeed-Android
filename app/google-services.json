@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "814741431310",
+    "firebase_url": "https://stockfeed-dabc2.firebaseio.com",
+    "project_id": "stockfeed-dabc2",
+    "storage_bucket": "stockfeed-dabc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814741431310:android:09b4773da640bb1d",
+        "android_client_info": {
+          "package_name": "com.example.ethantien.stockview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814741431310-qc91l0b2581l2lstb1h515rhoi6ph7i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLeRMEWaGQmG4RpuyHhHOfBLitsaAqieA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
